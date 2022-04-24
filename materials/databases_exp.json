@@ -1,0 +1,14 @@
+[
+	{
+		"name" : "big",
+		"directory" : "experiment_big.cdb"
+	},
+	{
+		"name" : "small",
+		"directory" : "experiment_small.cdb"
+	},
+	{
+		"name" : "cars",
+		"directory" : "cars.cdb"
+	}
+]
